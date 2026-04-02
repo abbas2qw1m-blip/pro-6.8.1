@@ -4,7 +4,7 @@
 // 
    console.log("%c AR-designer","font-size:21px;font-weight: 800; background-color:black; color: #6bfff8; border-radius:9px; padding-inline:32px;" );
 //    
-   console.log("%c WW-HR.","font-size:21px;font-weight: 800; background-color:black; color: #ebff6b; border-radius:9px; padding-inline:32px;" );
+   console.log("%c MW-HR.","font-size:21px;font-weight: 800; background-color:black; color: #ebff6b; border-radius:9px; padding-inline:32px;" );
 //    
    console.log("%c  تحذير هام  لا تقم بالتلاعب بالملفات او حذف بعض الاكواد اذا قمت بالفعل فقط اعمل تحديث للصفحة","font-size:26px;font-weight: 800; background-color:black; color: #e15f5f; border-radius:9px; padding-inline:100px;" );
 //    
